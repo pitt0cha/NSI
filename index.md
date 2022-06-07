@@ -2,9 +2,9 @@ Ceci est la page d'accueil d'un site de base généré avec le framework MkDocs 
 
 > Pour voir le code MarkDown sous jacent, cliquer sur le crayon en haut à droite.
 
-# Voici un titre de niveau 1
-## Et voici un titre de niveau 2
-Ceci est un paragraphe.  
+# Bienvenu sur Classoutrou
+## Le classeur de vos travaux
+Ce protype de site web va me servir à stocker ce qui doît être stocké.  
 Avec un retour à la ligne sans saut de ligne.
 
 Et avec un retour à la ligne avec saut de ligne.
